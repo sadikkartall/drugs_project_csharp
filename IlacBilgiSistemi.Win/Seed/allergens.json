@@ -1,0 +1,878 @@
+[
+  {
+    "AllergenId": "7",
+    "EtkinMadde": "Ca-TRİSODYUMDİETİLENTRİAMİN+Sn",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN DTPA  IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "115",
+    "EtkinMadde": "Tc-99m MEBROFENİN",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "MEBROFENİN Tc-99m INJ. IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "117",
+    "EtkinMadde": "MEDRONİK ASİT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "MEDROCİS Tc-99m MEDRONATE IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "47",
+    "EtkinMadde": "Tc-99m PERTEKNETAT üretir.",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERTEC II Tc-99m STERİL RADYOİZOTOP JENERATÖR"
+  },
+  {
+    "AllergenId": "122",
+    "EtkinMadde": "HİPPURAN I-131",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "HİPURAN I-131 STERİL ENJ. SOL.  IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "145",
+    "EtkinMadde": "KOLLOİDAL İNSAN SERUM ALBUMİNİ",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "SENTİ SCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "130",
+    "EtkinMadde": "TETRACİS COPER ",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "CARDIOLİTE IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "79",
+    "EtkinMadde": "STANNOUS KLORÜRDİHİDRAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "LIVOSCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "69",
+    "EtkinMadde": "SODYUM İODOHİPPURAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM IODOHIPPURATE(I-131) INJ.BP IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "110",
+    "EtkinMadde": "Tc-99m",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "ELUMATİC III Tc-99m STERİL  RADYONÜKLİD JENERATÖR"
+  },
+  {
+    "AllergenId": "8",
+    "EtkinMadde": "SODYUM İYODÜR (I-131)",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "SODIUM IODIDE (I-131) THER. KAPSÜL."
+  },
+  {
+    "AllergenId": "62",
+    "EtkinMadde": "SİYANOKOBALAMİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "CYANOCOBALAMINE(Co-58) SOL. B.P."
+  },
+  {
+    "AllergenId": "54",
+    "EtkinMadde": "INDIUM KLORİD",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "INDIUM(In-111) CHLORİDE  PREKÜRSÖR SOL."
+  },
+  {
+    "AllergenId": "75",
+    "EtkinMadde": "XENON GAZI",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "XENON(Xe-133)GAS İNHALASYON İÇİN GAZ"
+  },
+  {
+    "AllergenId": "89",
+    "EtkinMadde": "XENON GAZI",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "XENON(Xe-133)GAS CARTRİDGES İNHALASYON İÇİN GAZ KARTUŞ"
+  },
+  {
+    "AllergenId": "32",
+    "EtkinMadde": "I-131 Na-IYODÜR",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "I-131-T KAPSÜL"
+  },
+  {
+    "AllergenId": "131",
+    "EtkinMadde": "BİCİSATEDİHİDRO KLORÜR+STANNOUS KLORİDE DİHİDRAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "NEUROLİTE ENJ. SOL. İÇİN TOZ VE ÇÖZÜCÜ"
+  },
+  {
+    "AllergenId": "113",
+    "EtkinMadde": "K-PERRHENATE",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "COLLOİDAL Tc-99m Re SULPHİDE INJ.  IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "118",
+    "EtkinMadde": "MEBROFENİN",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "CHOLECİS IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "135",
+    "EtkinMadde": "INDİUM OXİNATE",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "INDIUM OXINATE(In-111) INJ. IV ENJ. SOLUTİON"
+  },
+  {
+    "AllergenId": "56",
+    "EtkinMadde": "CHROMİUM EDETATE",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "CHROMIUM(Cr-51) EDTA INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "104",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "MEDTEK",
+    "UrunAdi": "GALYUM SİTRAT  IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "139",
+    "EtkinMadde": "(N-N-ETİLEN-L-DİSİSTEİN)",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "EC(N-N-ETİLEN-L-DİSİSTEİN) IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "44",
+    "EtkinMadde": "TALYUM KLORÜR",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "THALLOUS CHLORIDE(TI-201) INJ. SOL. ENJ. SOL"
+  },
+  {
+    "AllergenId": "39",
+    "EtkinMadde": "Tc-99m ALBUM.NANOKOLLOİD",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SOLCO VENTİCOL Tc-99m-ALBUMİN NAN. ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "10",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "GALLİUM CİTRATE(Ga-67)  SOL. IV. ENJ. SOL"
+  },
+  {
+    "AllergenId": "82",
+    "EtkinMadde": "",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "MAASCİNT"
+  },
+  {
+    "AllergenId": "31",
+    "EtkinMadde": "I-131 Na-IYODÜR",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "I-131-D KAPSÜL"
+  },
+  {
+    "AllergenId": "58",
+    "EtkinMadde": "TETROFOSMİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "MYOVIEW-TM STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "3",
+    "EtkinMadde": "INDİUM KLORİD",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "INDIUM CHLORIDE(In-111) SOL. PREKÜRSÖR SOL."
+  },
+  {
+    "AllergenId": "65",
+    "EtkinMadde": "FERRİC SİTRAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "FERRIC(Fe-59) CITRATE INJ."
+  },
+  {
+    "AllergenId": "132",
+    "EtkinMadde": "IMMU-4 FAB ANTİ CEA MURİNE MONOKLONAK ANTİBODY",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "CEA-SCAN IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "38",
+    "EtkinMadde": "HUMAN ALB+NACL+STANNOUS KLO.",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "ALBUTEC Tc-99m, ALBUMİN HAZ. İÇ. KİT ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "96",
+    "EtkinMadde": "İYOT 131",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SODIUM IODIDE (I-131) ORAL SOL."
+  },
+  {
+    "AllergenId": "123",
+    "EtkinMadde": "SOYUM İYODÜR I-131",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "I-131 S-2-A IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "81",
+    "EtkinMadde": "SUCCİMER",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "NEPHROSCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "2",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "GALLIUM CITRATE(GA-67)  IV ENJEKSİYONLUK ÇÖZELTİ İÇEREN FLAKON"
+  },
+  {
+    "AllergenId": "120",
+    "EtkinMadde": "STRONSİYUM KLORÜR",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "STRONTİUM CHLORİDE STERİL ENJ. SOL IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "21",
+    "EtkinMadde": "SAMARİUM+TETRAFOSFONAT ŞELAT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "QUADRAMED ENJ. SOL."
+  },
+  {
+    "AllergenId": "40",
+    "EtkinMadde": "GLUKOZ+KOLLOİDAL İNSAN ALBUMİNİ",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SOLCO NANOCOLL ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "14",
+    "EtkinMadde": "TRİSODYUM+CA-PENTATE",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "PENTACİS LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "55",
+    "EtkinMadde": "STRONSYUM KLORÜR",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "METASTRON (Sr-89) CHLORIDEIV ENJ. SOL"
+  },
+  {
+    "AllergenId": "18",
+    "EtkinMadde": "RENYUM SÜLFİD",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "RHENIUM(Re-186) SULPHİDE LOKAL ENJ. KOLL. SÜSP."
+  },
+  {
+    "AllergenId": "100",
+    "EtkinMadde": "NA HEPTANATEDİHİDRAT+CAGLUCOHETANATE",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "GLOHEPTOSCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "138",
+    "EtkinMadde": "I-131 Na-IYODÜR",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "I-131 SODİUM IODİDE KAPSÜL"
+  },
+  {
+    "AllergenId": "108",
+    "EtkinMadde": "TALYUM KLORÜR",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "THALLİUM CHLORİDE ENJ. SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "128",
+    "EtkinMadde": "C14-ÜRE",
+    "FirmaAdi": "KARBON TIBBİ MALZ.",
+    "UrunAdi": "HELİCAP KAPSÜL"
+  },
+  {
+    "AllergenId": "98",
+    "EtkinMadde": "Tc-99m üretir",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "ELUTEC(Tc-99m) RADYONÜKLİD JENERATÖR"
+  },
+  {
+    "AllergenId": "85",
+    "EtkinMadde": "FERRİC SİTRAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "FERRIC(Fe-59) CITRATE INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "95",
+    "EtkinMadde": "İYOT 131",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SODIUM IODIDE (I-131) THER. KAPSÜL"
+  },
+  {
+    "AllergenId": "124",
+    "EtkinMadde": "IOBENGUANE(I-131)+IOBENGUANE(INN)",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "MIBG-I-131-T IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "142",
+    "EtkinMadde": "DL-HM-PAO",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "LEUCO-SCİNT (DL-HM-PAO)İNJ. SOLUTİON"
+  },
+  {
+    "AllergenId": "25",
+    "EtkinMadde": "İNSAN IMMUNGLO G+SNCL2",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN HIG IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "12",
+    "EtkinMadde": "DİMERKAPTOSÜKSİNİK ASİT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "RENOCİS LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "9",
+    "EtkinMadde": "Tc-99m",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "ELUMATİC III Tc-99m STERİL JENERATÖR"
+  },
+  {
+    "AllergenId": "53",
+    "EtkinMadde": "SODYUM İYODÜR (I-131)",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM IODIDE(I-131) THERAPY KAPSÜL"
+  },
+  {
+    "AllergenId": "97",
+    "EtkinMadde": "TALYUM KLORÜR",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "THALLOUS (TI-201) CHLORİDE INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "52",
+    "EtkinMadde": "SODYUM KROMAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM CHROMATE(Cr-51) SOL. PREKÜRSÖR SOL."
+  },
+  {
+    "AllergenId": "27",
+    "EtkinMadde": "6-İODOMETİLNORKOLESTEROL",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "NORCHOLESTROL(I-131) INJ. IV ENJEKSİYONLUK SOLÜSYON"
+  },
+  {
+    "AllergenId": "4",
+    "EtkinMadde": "INDIUM111 PENTETROTİD",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "OCTREOSCAN (In111) SOL+LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "111",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "GALLİUM CİTRATE(Ga-67) INJ. SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "26",
+    "EtkinMadde": "Re-186 HEDP",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "RE-BONE (RHENIUM(Re-186) ETIDRONATE INJ. ) IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "13",
+    "EtkinMadde": "RENYUM SÜLFİD",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "NANOCİS LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "127",
+    "EtkinMadde": "KOLLOİDAL RENYUM SÜLFİD",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "HEPATOCİS IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "119",
+    "EtkinMadde": "Sm-153",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SAMARIUM EDTMP STERİL ENJ. SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "16",
+    "EtkinMadde": "ERBİYUM SİTRAT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "ERBİYUM SİTRATE LOKAL ENJ. KOLLOİDAL SÜSPANSİYON"
+  },
+  {
+    "AllergenId": "86",
+    "EtkinMadde": "SODYUM KROMAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SODIUM CHROMATE(Cr-51) SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "80",
+    "EtkinMadde": "PENTETİK ASİT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "DTPASCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "72",
+    "EtkinMadde": "SODYUM İODİDE",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM IODIDE(I-131) DIAGN. KAPSÜL"
+  },
+  {
+    "AllergenId": "76",
+    "EtkinMadde": "THALLOUS KLORİD",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "THALLOUS(TI-201) CHLORIDE INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "143",
+    "EtkinMadde": "İNSAN SERUM ALB.+KALAY KLORÜR",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN HSA IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "93",
+    "EtkinMadde": "METAİODOBENZİLGUANİDİN",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "META-IODOBENZYL GUANIDINE DIAG.INJ IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "45",
+    "EtkinMadde": "IODOPRİDE(I-123)",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "I-123-IBZM SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "41",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "GALLIUM CITRATE(GA-67) INJEC. SOL. ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "17",
+    "EtkinMadde": "YTTRİUM SİTRAT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "YTTRIUM(Y-90) SİTRAT INJ. KOLL, SÜSP. ENJ. SÜSP."
+  },
+  {
+    "AllergenId": "136",
+    "EtkinMadde": "Cu(MIBI)4BF4",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "CARDIO-SPECT(MIBI) ENJ. SOL. IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "133",
+    "EtkinMadde": "18FDG",
+    "FirmaAdi": "TÜRK TABİBLER VAKFI",
+    "UrunAdi": "ŞİFA FDG ENJ. SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "6",
+    "EtkinMadde": "İNSAN SERUM ALBUMİNİ",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN LYOMAA IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "66",
+    "EtkinMadde": "IODOBENZİLGUANİDİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "META-IODOBENZYLGUANIDINE(I-131)TERSOL IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "63",
+    "EtkinMadde": "SİYANOKOBALAMİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "DICOPAC KAPSÜL"
+  },
+  {
+    "AllergenId": "46",
+    "EtkinMadde": "SODİUM IOTHALAMATE",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM IOTHALAMATE(I-125) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "50",
+    "EtkinMadde": "SODYUM FOSFAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM PHOSPHATE(P-32) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "36",
+    "EtkinMadde": "Tc-99m DTPA",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "ERITROTEC Tc-99m PENT.(DTPA) ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "59",
+    "EtkinMadde": "MEDRONİK ASİT NA TUZU",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERSCAN STANNOUS AGENT STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "137",
+    "EtkinMadde": "I-131 Na-IYODÜR",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "I-131 SODİUM IODİDE SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "71",
+    "EtkinMadde": "TAUROSELCHOLİC ASİT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SeHCAT KAPSÜL"
+  },
+  {
+    "AllergenId": "20",
+    "EtkinMadde": "SODYUM İYODÜR (I-131)",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "I-131-S-1-A ORAL SOL"
+  },
+  {
+    "AllergenId": "19",
+    "EtkinMadde": "SODYUM İYODÜR (I-131)",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "CAPSİON KAPSÜL"
+  },
+  {
+    "AllergenId": "141",
+    "EtkinMadde": "DL-HM-PAO",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "TROMBO-SCİNT (DL-HM-PAO)İNJ. SOLUTİON"
+  },
+  {
+    "AllergenId": "73",
+    "EtkinMadde": "YITRIUM SİLİCATE",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "YTTRIUM(Y-90) SILICATE INJ. ENJ. KOLLOİDAL SÜSP."
+  },
+  {
+    "AllergenId": "102",
+    "EtkinMadde": "Tc-99m",
+    "FirmaAdi": "MEDTEK",
+    "UrunAdi": "SOREQ-TECHNETIUM  RADYONÜKLİDJENERATÖR"
+  },
+  {
+    "AllergenId": "103",
+    "EtkinMadde": "TALYUM KLORÜR",
+    "FirmaAdi": "MEDTEK",
+    "UrunAdi": "TALYUM KLORİD SOLÜSYON IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "106",
+    "EtkinMadde": "XENON 133",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "XENON G.A.SOL. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "88",
+    "EtkinMadde": "XENON GAZI",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "XENON(Xe-133)GAS AMPUL İNHALASYON İÇİN GAZ AMPUL"
+  },
+  {
+    "AllergenId": "125",
+    "EtkinMadde": "SODYUM PİROFOSFAT DEKAHİDRAT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "HEMATOCIS IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "78",
+    "EtkinMadde": "SODYUM PİROFOSFAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "PYROSCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "61",
+    "EtkinMadde": "SİYANOKOBALAMİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "CYANOCOBALAMINE(Co-57) KAPSÜL"
+  },
+  {
+    "AllergenId": "134",
+    "EtkinMadde": "SULESOMAB MONOKLONAL ANTİBODY",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "LEUKOSCAN IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "33",
+    "EtkinMadde": "I-131 Na-IYODÜR",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "I-131-S-2 ENJ. SOL"
+  },
+  {
+    "AllergenId": "34",
+    "EtkinMadde": "I-131 Na-IYODÜR",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "I-131-S-1 ORAL SOL."
+  },
+  {
+    "AllergenId": "35",
+    "EtkinMadde": "Tc-99m MEBROFENİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "BRIDATEC ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "114",
+    "EtkinMadde": "DTPA CaNa3",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "DTPA TCK-6 IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "42",
+    "EtkinMadde": "Tc-99m MEDRONATE",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SOLCO SMDP Tc-99m MEDRONATE KİT ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "1",
+    "EtkinMadde": "METİLEN DİFOSFONİK ASİT+SnCL2",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN MDP IV ENJEKSİYON İÇİN LİYOFİLİZE TOZ İÇEREN FLAKON"
+  },
+  {
+    "AllergenId": "77",
+    "EtkinMadde": "SELENYUM 75",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SCINTADREN(Se-75) IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "49",
+    "EtkinMadde": "SODYUM İYODÜR (I-131)",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM IODIDE(I-131) INJ."
+  },
+  {
+    "AllergenId": "105",
+    "EtkinMadde": "DİMERKAPTOSÜKSİNİK ASİT+SnCl2",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "DİMERKAPTOSÜKSİNİK ASİT Tc-99m ENJ. SOL IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "37",
+    "EtkinMadde": "Tc-99m üretir",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "DRYGEN Tc-99m STERİL JENERATÖR RADYONÜKLİD JENERATÖR"
+  },
+  {
+    "AllergenId": "121",
+    "EtkinMadde": "SODYUM P-32-o-FOSFAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SODİUM o-PHOSPHATE STERİL ENJ. SOL.IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "92",
+    "EtkinMadde": "METAİODOBENZİLGUANİDİN",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "META-IODOBENZYL GUANIDINE THER.IN IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "101",
+    "EtkinMadde": "MEDRONİK ASİT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "LENOSCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "51",
+    "EtkinMadde": "SODYUM MEDRONAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERSCAN MEDRONATE II AGENT STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "109",
+    "EtkinMadde": "RENYUM SÜLFİD",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "COLLOİDAL Tc-99m Re SULPHİDE INJ. FOR  IV ENJ. SOLLYMPHOGRAPHY"
+  },
+  {
+    "AllergenId": "112",
+    "EtkinMadde": "SODYUM FİTAT",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "PHYTATE Tc-99m INJ.  IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "144",
+    "EtkinMadde": "CA-TRİSODYUM PENTETAT+SNCL2",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN DTPA AEROSOL"
+  },
+  {
+    "AllergenId": "64",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "GALLIUM(Ga-67) CITRATE INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "87",
+    "EtkinMadde": "CROMİUM EDETATE",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "CHROMIUM(Cr-51) EDETATE IV.  INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "43",
+    "EtkinMadde": "DTPA",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "DTPATEC-S Tc-99m PENTETAE KİT  ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "146",
+    "EtkinMadde": "KOLLOİDAL İNSAN SERUM ALBUMİNİ",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "MAKRO ALBUMİN IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "5",
+    "EtkinMadde": "3-IODOBENZİNGUANİDİN SÜLFAT",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "MIBG(I-123) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "22",
+    "EtkinMadde": "TEKNESYUM-HUMAN ALBUMİN MAKROAGREGAT",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "PULMOCİS ENJ.TOZ"
+  },
+  {
+    "AllergenId": "107",
+    "EtkinMadde": "MEDRONİK ASİT",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "MEDRONATE Tc-99m INJ. IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "68",
+    "EtkinMadde": "IODOBENZİLGUANİDİN",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "META-IODOBENZYLGUANIDINE(I-131)SOL IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "90",
+    "EtkinMadde": "XENON GAZI",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "XENON(Xe-133)GAS VİAL İNHALASYON İÇİN GAZ VİAL"
+  },
+  {
+    "AllergenId": "29",
+    "EtkinMadde": "IOBENGUAN I-131",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "MIBG-131 IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "24",
+    "EtkinMadde": "YTTRİUM KLORÜR",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "YTRACİS -YTTRİUM KLORİD SOL. RADYOFARMASÖTİK PREKÜRSÖR"
+  },
+  {
+    "AllergenId": "83",
+    "EtkinMadde": "İNSAN SERUM ALBUMİNİ",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "ALBUMOSCINT IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "23",
+    "EtkinMadde": "Tc 99 m",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "MTcK-7 (MIBI) ENJEKTABL LİYOFİLİZE TOZ RADYOFARMASÖTİK KİT"
+  },
+  {
+    "AllergenId": "30",
+    "EtkinMadde": "Tc 99 m",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "ULTRATAG RBC IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "15",
+    "EtkinMadde": "IOBENGUANE(I-131)",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "MIBG-I-131-D ENJ. SOL."
+  },
+  {
+    "AllergenId": "126",
+    "EtkinMadde": "BETİATİDUM",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "STERİL Tc-99m MAG-3 ENJ. HAZ. İÇİN MAG-3 KİTİ IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "116",
+    "EtkinMadde": "SODYUM GLUKONAT+STANNÖZ KLORHİDRAT",
+    "FirmaAdi": "EZA TIBBİ CİHAZLAR",
+    "UrunAdi": "CALCİUM GLUKONATE Tc-99m INJ. IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "28",
+    "EtkinMadde": "SODYUM OKSİDERONAT+SnCl2",
+    "FirmaAdi": "NEPHA TIBBİ CİHAZLAR SAN. VE TİC. LTD. ŞTİ.",
+    "UrunAdi": "TECHNESCAN HDP (OSTEOSCAN HDP) IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "67",
+    "EtkinMadde": "Ca-TRİSODYUMDİETİLENTRİAMİNPENTA ASETAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERSCAN PENTETATE II AGENT STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "11",
+    "EtkinMadde": "TALYUM KLORÜR",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "TALYUM KLORİD SOLÜSYON IV. ENJ. SOL"
+  },
+  {
+    "AllergenId": "91",
+    "EtkinMadde": "XENON GAZI",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "XENON(Xe-133) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "84",
+    "EtkinMadde": "GALYUM-67 SİTRAT",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "GALLİUM CİTRATE(Ga-67) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "94",
+    "EtkinMadde": "İYOT 131",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SODIUM IODIDE (I-131) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "140",
+    "EtkinMadde": "HM-PAO",
+    "FirmaAdi": "EPSİLON",
+    "UrunAdi": "BRAİN-SPECT INJ. SOL. IV ENJ. LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "57",
+    "EtkinMadde": "INDIUM OXİNE KOMPLEX",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "INDIUM(In-111) OXINE SOL. PREKÜRSÖR SOL."
+  },
+  {
+    "AllergenId": "60",
+    "EtkinMadde": "EKSAMETAZİM",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERSCAN PENTETATE II AGENT STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "48",
+    "EtkinMadde": "Tc-99m ",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERSCAN HEPATATE II AGENT STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "74",
+    "EtkinMadde": "DMSA",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "AMERSCAN DMSA AGENT STERİL LİYOFİLİZE TOZ"
+  },
+  {
+    "AllergenId": "70",
+    "EtkinMadde": "SODYUM İODOHİPPURAT",
+    "FirmaAdi": "NÜKLEER TEKNOLOJİ",
+    "UrunAdi": "SODIUM IODOHIPPURATE(I-131) INJ. IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "129",
+    "EtkinMadde": "POPPY-SEED YAĞ ASİTLERİ ETİL ESTERİ I-131",
+    "FirmaAdi": "RADMED SAĞLIK ÜRÜNLERİ",
+    "UrunAdi": "LİPİOCİS IV ENJ. SOL"
+  },
+  {
+    "AllergenId": "99",
+    "EtkinMadde": "SODYUM İYODÜR (I-131)",
+    "FirmaAdi": "TESST",
+    "UrunAdi": "SODIUM IODIDE (I-131) DIAG. KAPSÜL."
+  }
+]
