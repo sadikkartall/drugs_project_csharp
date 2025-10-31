@@ -16,6 +16,7 @@ Proje Clean Architecture prensiplerine göre katmanlı bir yapıda tasarlanmış
   - `Drug`: İlaç bilgileri (Barkod, Ürün Adı, Etken Madde, ATC Kodu, Ruhsat Sahibi, Ruhsat Tarihi)
   - `Radiopharmaceutical`: Radyofarmasötik bilgileri
   - `Allergen`: Alerjen bilgileri
+  - `ProspectusRef`: Prospektüs referans bilgileri
   - Repository interfaces ve servisler
 
 - **IlacBilgiSistemi.Infrastructure**: Altyapı ve veri erişim katmanı
@@ -81,10 +82,10 @@ IlacBilgiSistemi/
 │   ├── Entities/                      # Domain entities
 │   │   ├── Drug.cs
 │   │   ├── Radiopharmaceutical.cs
-│   │   └── Allergen.cs
+│   │   ├── Allergen.cs
+│   │   └── ProspectusRef.cs
 │   └── Interfaces/                    # Repository interfaces
 ├── IlacBilgiSistemi.Infrastructure/   # Infrastructure katmanı
-│   └── Class1.cs
 ├── IlacBilgiSistemi.Win/              # Windows Forms UI
 │   ├── Form1.cs
 │   ├── Program.cs
